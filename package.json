@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@seratch_/bolt-http-runner": "^1.0.3",
     "@slack/bolt": "^3.17.0",
     "next": "14.0.4",
     "react": "^18",
